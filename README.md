@@ -9,4 +9,4 @@ This VHDL design includes Microcontroller UNIT based on MIPS PIPELINE CPU with o
 	added HARDWARE exclusively for INTERRUPT capabilities.
 	the entire ISA supported included in the control.vhd file.
 
-The design has been compiled and loaded to the FPGA Altera board for testing
+The design has been compiled and loaded to the FPGA Altera board ( Cyclone V ) for testing
